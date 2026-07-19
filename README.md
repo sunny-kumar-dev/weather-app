@@ -11,8 +11,8 @@ A simple and responsive weather application built using React.js that allows use
 
 ## 📸 Screenshots
 
-![Home](./screenshots/screen1.png)
-![Result](./screenshots/screen2.png)
+![Home](./public/screenshots/screen1.png)
+![Result](./public/screenshots/screen1.png)
 
 ---
 
